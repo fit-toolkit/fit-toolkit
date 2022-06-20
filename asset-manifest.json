@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/fitness-toolkit-web/static/css/main.188f8cde.css",
+    "main.js": "/fitness-toolkit-web/static/js/main.72dffd30.js",
+    "index.html": "/fitness-toolkit-web/index.html",
+    "main.188f8cde.css.map": "/fitness-toolkit-web/static/css/main.188f8cde.css.map",
+    "main.72dffd30.js.map": "/fitness-toolkit-web/static/js/main.72dffd30.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.188f8cde.css",
+    "static/js/main.72dffd30.js"
+  ]
+}
